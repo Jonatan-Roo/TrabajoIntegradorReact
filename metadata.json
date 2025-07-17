@@ -1,0 +1,6 @@
+
+{
+  "name": "Tienda E-commerce con React",
+  "description": "Una moderna aplicación de comercio electrónico construida con React, TypeScript y Tailwind CSS. Ofrece navegación de productos, un carrito de compras con estado persistente, autenticación de usuarios con rutas protegidas y páginas de productos dinámicas. También se integra con la API de Gemini para generar descripciones de productos creativas.",
+  "requestFramePermissions": []
+}
